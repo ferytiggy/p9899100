@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+#foto{
+    height: 350px;
+    width: 550px;
+    border-radius: 356px;
+}
+#text{
+    width: 1000px;
+    background-color: aquamarine;
+    border-radius: 16px;
+}
+#inicio{
+    border-radius: 56px;
+    background-color: aquamarine;
+}
